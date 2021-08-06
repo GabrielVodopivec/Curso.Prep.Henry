@@ -1,0 +1,26 @@
+h1 {
+    color :blue;
+    font-size: 50px;
+    text-align-last: center;
+}
+h3 {
+    color:crimson;
+    font-size: 30px;
+    font-style: oblique;
+}
+img {
+    width: 500px;
+}
+#ThirdDiv {
+    height: 600 px;
+    width: 500 px;
+    background-color: cornsilk;
+    padding: 30px;
+    border-style: dashed;
+    border-color: crimson;
+}
+#spanId {
+    font-size: 20px;
+    margin: 50 px;
+    font-style: oblique;
+}
